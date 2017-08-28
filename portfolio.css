@@ -1,0 +1,135 @@
+
+.background {
+    background-color: #55414a;
+    padding: 20px;
+    width: 950px;
+    
+}
+
+h1 {
+   background-color: #f7f7f7;
+   margin-bottom: 0px;
+   padding-right: 850px;
+   margin-top: 0px;
+}
+
+h2 {
+    background: -webkit-linear-gradient(white 0%, gray 100%, white 0%);
+    color: white;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-left: 5px;
+    margin-bottom: 0px;
+    font-size: 120%;
+    padding-bottom: 5px;
+}
+
+h3 {
+    background: -webkit-linear-gradient(white 10%, gray 100%, white 20%);
+    height: 50px;
+    color: white;
+    font-size: 120%;
+    margin-top:0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+
+
+.photo{
+display: inline-block;
+vertical-align: top;
+border-style: solid;
+border-width: 5px;
+border-color: gray;
+margin-right: 5px;
+}
+
+#about2 {
+    background: -webkit-linear-gradient(white 0%, gray 80%, white 0%);
+    padding-top: 5px;
+}
+
+
+.about1 {
+    display: inline-block;
+    width: 400px;
+    background-color: #dccddb;
+    font-size: 90%;
+    margin-left: 10px;
+    padding-bottom: 35px;
+ 
+}
+
+
+.technologies {
+    width: 250px;
+    word-spacing: 5px;
+    line-height: 3.5;
+    display: inline-block;
+    margin-right: 50px;
+    color:white;
+    margin-top: 0px;
+}
+
+.technologies1 {
+    background-color: #dccddb;
+    margin-top:0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+    
+
+.info1{
+    display: inline-block;
+    background-color: #dccddb;
+    width: 250px;
+    vertical-align: top;
+    margin-top:40px;
+    font-size: 90%;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    height: 350px;
+}
+
+.ctn {
+    text-decoration: underline;
+}
+
+p.text {
+    margin-left: 70px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #407d61;
+    font-size: 80%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0px;
+    height: 30px;
+    width: 8em;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.contactinfo {
+    text-align: center;
+    width: 950px;
+    
+}
+
+.contactinfo1 {
+    text-align: center;
+    text-decoration: underline;
+    width: 950px;
+}
+
+#master {
+   display: inline-block;
+    position: absolute;
+    vertical-align: top;
+    right: 500px;
+}
+
+.header {
+   display: inline-block;
+}
